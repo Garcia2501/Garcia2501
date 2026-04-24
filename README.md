@@ -1,5 +1,4 @@
 <div align="center">
-  <br />
   <img src="https://capsule-render.vercel.app/render?type=waving&color=007BFF&height=150&section=header&text=Manolo%20García&fontSize=70&animation=fadeIn&fontAlignY=38" />
 
   ### 🚀 Software Engineering Student | Backend & MDE Specialist
@@ -27,7 +26,7 @@ I am a logic-driven **Software Engineering Student** focused on the intersection
       <b>Backend Dev</b>
     </td>
     <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" /><br />
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" /><br />
       <b>Databases</b>
     </td>
     <td align="center" width="200">
