@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=007BFF&height=200&section=header&text=Manolo%20García&fontSize=70&animation=fadeIn&fontAlignY=38" />
+  <br />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=007BFF&height=150&section=header&text=Manolo%20García&fontSize=70&animation=fadeIn&fontAlignY=38" />
 
   ### 🚀 Software Engineering Student | Backend & MDE Specialist
   
