@@ -1,12 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=007BFF&height=150&section=header&text=Manolo%20García&fontSize=70&animation=fadeIn&fontAlignY=38" />
 
-  ### 🚀 Software Engineering Student | Backend & MDE Specialist
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Mastering+Model-Driven+Engineering;Building+Scalable+Microservices;Automating+Network+Security;4th+Semester+at+UTA+🇪🇨)](https://git.io/typing-svg)
-</div>
+# 🚀 Manolo José García Amores
+### Software Engineering Student | Backend & MDE Specialist
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Mastering+Model-Driven+Engineering;Building+Scalable+Microservices;Automating+Network+Security;4th+Semester+at+UTA+🇪🇨)](https://git.io/typing-svg)
 
 ---
+
+</div>
 
 ### 👨‍💻 About Me
 I am a logic-driven **Software Engineering Student** focused on the intersection of **Architectural Design** and **Network Security**. My workflow is defined by the strict application of formal methodologies and automation.
@@ -19,22 +20,9 @@ I am a logic-driven **Software Engineering Student** focused on the intersection
 
 ### 🛠️ Technical Stack & Expertise
 
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=java,spring,py,cpp" /><br />
-      <b>Backend Dev</b>
-    </td>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" /><br />
-      <b>Databases</b>
-    </td>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=linux,bash,git,github" /><br />
-      <b>DevOps & Tools</b>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,py,cpp,postgres,mysql,linux,bash,git,github" />
+</p>
 
 <br />
 
@@ -63,9 +51,9 @@ I am a logic-driven **Software Engineering Student** focused on the intersection
 <p align="left">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garcia2501&layout=compact&theme=tokyonight&hide_border=true" width="300" />
 
-  - 🏆 **Tactical Gaming:** Specialist in **Apex Legends** & **Clash Royale** (Focus on team synergy).
-  - 🏃 **Fitness:** High-repetition bodyweight training & endurance conditioning.
-  - ⚽ **Football Analytics:** Tactical match analysis of high-level European leagues.
+  - 🏆 **Tactical Gaming:** Specialist in **Apex Legends** & **Clash Royale**.
+  - 🏃 **Fitness:** High-repetition bodyweight training & endurance.
+  - ⚽ **Football Analytics:** Tactical match analysis of European leagues.
   - 🎧 **Music:** Deep focus powered by Melodic R&B & Drake.
 </p>
 
