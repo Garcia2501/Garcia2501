@@ -1,62 +1,87 @@
-# <p align="center">✨ Manolo José García Amores ✨</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007BFF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Backend+%26+Microservices+Specialist;Model-Driven+Engineering+Enthusiast;Network+Security+Auditor" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=007BFF&height=200&section=header&text=Manolo%20García&fontSize=70&animation=fadeIn&fontAlignY=38" />
+
+  ### 🚀 Software Engineering Student | Backend & MDE Specialist
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Mastering+Model-Driven+Engineering;Building+Scalable+Microservices;Automating+Network+Security;4th+Semester+at+UTA+🇪🇨)](https://git.io/typing-svg)
+</div>
 
 ---
 
-### 👨‍💻 Professional Summary
-I am a Software Engineering student in my 4th semester at **Universidad Técnica de Ambato (UTA)**. I specialize in architecting scalable solutions through **Model-Driven Engineering (MDE)** and **Microservices**, integrating robust **Cisco Networking** security and automated validation protocols.
+### 👨‍💻 About Me
+I am a logic-driven **Software Engineering Student** focused on the intersection of **Architectural Design** and **Network Security**. My workflow is defined by the strict application of formal methodologies and automation.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Actively_Coding-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-System_Architecture-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Ambato,_EC-orange?style=for-the-badge" />
-</p>
+- 🔭 **Currently working on:** Automated Security Audit Frameworks for Cisco infrastructures.
+- ⚡ **Core Strength:** Implementing Domain-Specific Languages (DSL) with OCL Invariants.
+- 🛠️ **Methodology:** Expert use of **Git Flow** for enterprise-grade version control.
 
 ---
 
-### 🛠️ Technical Ecosystem
+### 🛠️ Technical Stack & Expertise
 
-| Category | technologies | Mastery |
-| :--- | :--- | :--- |
-| **Backend** | `Java` `Spring Boot` `Python` `C++` | ![85%](https://geps.dev/progress/85?dangerColor=007BFF&accColor=007BFF) |
-| **Modeling (MDE)** | `Eclipse` `Xtext` `Xtend` `OCL` | ![90%](https://geps.dev/progress/90?dangerColor=007BFF&accColor=007BFF) |
-| **Database** | `PostgreSQL` `MySQL` `Schema Design` | ![80%](https://geps.dev/progress/80?dangerColor=007BFF&accColor=007BFF) |
-| **Networking** | `Cisco IOS` `ACLs` `Service Auditing` | ![75%](https://geps.dev/progress/75?dangerColor=007BFF&accColor=007BFF) |
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=java,spring,py,cpp" /><br />
+      <b>Backend Dev</b>
+    </td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" /><br />
+      <b>Databases</b>
+    </td>
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=linux,bash,git,github" /><br />
+      <b>DevOps & Tools</b>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+| Technology Domain | Proficiency Level |
+| :--- | :--- |
+| **Model-Driven Engineering (Eclipse/Xtext)** | ![90%](https://geps.dev/progress/90?color=007BFF) |
+| **Microservices Architecture** | ![80%](https://geps.dev/progress/80?color=007BFF) |
+| **Cisco Networking & ACLs** | ![75%](https://geps.dev/progress/75?color=007BFF) |
 
 ---
 
-### 🚀 High-Impact Projects
+### 🚀 Featured Engineering Projects
 
 > [!IMPORTANT]
-> **Network Security Audit Framework**
-> Automated Cisco ACL validation and network service integrity engine.
-> *Tech: Python | Bash | Cisco Protocol Analysis*
+> ### 🛡️ Network Security Audit Automation
+> **The Problem:** Manual verification of ACLs and services is prone to error.  
+> **The Solution:** A Python-based engine that validates Cisco security policies and monitors DNS/HTTP health in real-time.
 
 > [!TIP]
-> **MDE & DSL Development**
-> Creating Domain-Specific Languages (DSLs) within Eclipse EMF to automate enterprise code generation.
-> *Tech: Xtext | OCL Invariants | Xtend*
+> ### 🏗️ DSL & OCL Integrity Systems
+> **Focus:** Using **Eclipse EMF** and **Xtext** to create languages that prevent errors by design through OCL (Object Constraint Language) invariants.
 
 ---
 
 ### 🎮 Beyond the Code
-When I'm not architecting systems, I'm sharpening my strategic skills and physical endurance:
+<p align="left">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garcia2501&layout=compact&theme=tokyonight&hide_border=true" width="300" />
 
-* **Tactical Gaming:** Specialist in **Apex Legends** and **Clash Royale** (Strategic analysis and team synergy).
-* **Fitness:** High-repetition bodyweight training and endurance conditioning.
-* **Sports:** Football enthusiast, focusing on tactical match analysis and European leagues.
-* **Music:** Deep focus work sessions powered by **Melodic R&B**.
+  - 🏆 **Tactical Gaming:** Specialist in **Apex Legends** & **Clash Royale** (Focus on team synergy).
+  - 🏃 **Fitness:** High-repetition bodyweight training & endurance conditioning.
+  - ⚽ **Football Analytics:** Tactical match analysis of high-level European leagues.
+  - 🎧 **Music:** Deep focus powered by Melodic R&B & Drake.
+</p>
+
+<br />
 
 ---
 
-### 📫 Connect with me
-<p align="left">
-<a href="mailto:manologar20029@gmail.com"><img src="https://img.shields.io/badge/Email-manologar20029@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+### 📫 Contact & Connectivity
+<p align="center">
+  <a href="mailto:manologar20029@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Ambato,_Ecuador-007BFF?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
 <p align="center">
-<i>"Software is a reflection of the engineer's logic; keep it clean, scalable, and efficient."</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Simplicity%20is%20the%20soul%20of%20efficiency." />
 </p>
