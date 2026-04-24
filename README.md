@@ -1,55 +1,62 @@
-# Manolo José García Amores
-**Software Engineering Student | Backend Developer | MDE Specialist**
+# <p align="center">✨ Manolo José García Amores ✨</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007BFF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Backend+%26+Microservices+Specialist;Model-Driven+Engineering+Enthusiast;Network+Security+Auditor" alt="Typing SVG" />
+</p>
 
 ---
 
 ### 👨‍💻 Professional Summary
-I am a dedicated Software Engineering student currently in my 4th semester at Universidad Técnica de Ambato. My expertise lies in architecting robust systems through **Model-Driven Engineering (MDE)** and modern **Microservices** architectures. I combine a strong foundation in **Cisco Networking** with advanced **Database Management** to build secure, scalable, and automated software ecosystems.
+I am a Software Engineering student in my 4th semester at **Universidad Técnica de Ambato (UTA)**. I specialize in architecting scalable solutions through **Model-Driven Engineering (MDE)** and **Microservices**, integrating robust **Cisco Networking** security and automated validation protocols.
 
-* 🔭 **Current Initiatives:** Designing Domain-Specific Languages (DSLs) and implementing automated security audits for network infrastructures.
-* ⚙️ **Engineering Standards:** Advanced proficiency in **Git Flow**, ensuring seamless CI/CD integration and collaborative integrity.
-* 🎓 **Academic Background:** B.S. in Software Engineering, specialized in formal development methodologies.
-
----
-
-### 🛠️ Specialized Technical Stack
-
-| Category | Technologies & Skills |
-| :--- | :--- |
-| **Backend & Microservices** | Java (Spring Boot), Python, C++, Microservices Architecture, RESTful APIs |
-| **Data Management** | Relational Databases (PostgreSQL, MySQL), Query Optimization, Schema Design |
-| **Modeling & MDE** | Eclipse EMF, Xtext, Xtend, OCL Invariants, Model-to-Text (M2T) Transformation |
-| **Networking & Security** | Cisco IOS, ACL Configuration, DNS/HTTP/SSH Auditing, Packet Tracer |
-| **Infrastructure & DevOps** | Linux Systems Administration, Bash Scripting, Git Flow, LaTeX Documentation |
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Actively_Coding-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-System_Architecture-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Ambato,_EC-orange?style=for-the-badge" />
+</p>
 
 ---
 
-### 🚀 Key Engineering Projects
+### 🛠️ Technical Ecosystem
 
-#### 🛡️ Automated Network Security Audit Framework
-*Developed a Python-based automation engine to validate enterprise-level network security and service health.*
-* **Network Integration:** Implemented automated checks for Cisco-based access control lists (ACLs) and routing protocols.
-* **Service Validation:** Real-time monitoring and verification of DNS, HTTP, and internal service availability.
-
-#### 🏗️ Microservices & Database Architecture
-*Design and implementation of modular systems focusing on scalability and data persistence.*
-* **Microservices:** Decoupling monolithic structures into independent, scalable services using industry-standard patterns.
-* **Databases:** Advanced SQL implementation for complex data modeling, ensuring ACID compliance and efficient indexing.
-
-#### 🧩 Model-Driven Ecosystems (MDE)
-*Advanced DSL development within the Eclipse environment for automated code generation.*
-* **Impact:** Reduced development overhead by creating high-level abstractions with Xtext and ensuring structural integrity via OCL Invariants.
+| Category | technologies | Mastery |
+| :--- | :--- | :--- |
+| **Backend** | `Java` `Spring Boot` `Python` `C++` | ![85%](https://geps.dev/progress/85?dangerColor=007BFF&accColor=007BFF) |
+| **Modeling (MDE)** | `Eclipse` `Xtext` `Xtend` `OCL` | ![90%](https://geps.dev/progress/90?dangerColor=007BFF&accColor=007BFF) |
+| **Database** | `PostgreSQL` `MySQL` `Schema Design` | ![80%](https://geps.dev/progress/80?dangerColor=007BFF&accColor=007BFF) |
+| **Networking** | `Cisco IOS` `ACLs` `Service Auditing` | ![75%](https://geps.dev/progress/75?dangerColor=007BFF&accColor=007BFF) |
 
 ---
 
-### 🤝 Leadership & Collaboration
-Active contributor in high-performance engineering groups (**Grupo 7 / Grupo D**). I specialize in maintaining repository health through structured peer reviews, technical documentation in LaTeX, and strict version control protocols.
+### 🚀 High-Impact Projects
+
+> [!IMPORTANT]
+> **Network Security Audit Framework**
+> Automated Cisco ACL validation and network service integrity engine.
+> *Tech: Python | Bash | Cisco Protocol Analysis*
+
+> [!TIP]
+> **MDE & DSL Development**
+> Creating Domain-Specific Languages (DSLs) within Eclipse EMF to automate enterprise code generation.
+> *Tech: Xtext | OCL Invariants | Xtend*
 
 ---
 
-### 📫 Contact & Connection
-* 📍 **Location:** Ambato, Ecuador 🇪🇨
-* 📧 **Email:** [manologar20029@gmail.com](mailto:manologar20029@gmail.com)
-* ⚡ **Personal Motto:** *“Software is a reflection of the engineer's logic; keep it clean, scalable, and efficient.”*
+### 🎮 Beyond the Code
+When I'm not architecting systems, I'm sharpening my strategic skills and physical endurance:
+
+* **Tactical Gaming:** Specialist in **Apex Legends** and **Clash Royale** (Strategic analysis and team synergy).
+* **Fitness:** High-repetition bodyweight training and endurance conditioning.
+* **Sports:** Football enthusiast, focusing on tactical match analysis and European leagues.
+* **Music:** Deep focus work sessions powered by **Melodic R&B**.
 
 ---
+
+### 📫 Connect with me
+<p align="left">
+<a href="mailto:manologar20029@gmail.com"><img src="https://img.shields.io/badge/Email-manologar20029@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+<p align="center">
+<i>"Software is a reflection of the engineer's logic; keep it clean, scalable, and efficient."</i>
+</p>
